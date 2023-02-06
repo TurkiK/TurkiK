@@ -9,7 +9,6 @@
 </p>
 
 <br>
-<br>
 
 <h2 align="center">Github statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TurkiK&show_icons=true&locale=en&layout=compact" alt="TurkiK" /></p>
