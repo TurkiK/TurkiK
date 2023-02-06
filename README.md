@@ -1,5 +1,13 @@
-<h1 align="center">Hello there, My name is Turki!</h1>
-<p align="center"><img src="https://thumbs.gfycat.com/EnergeticHilariousKusimanse-max-1mb.gif" alt="Man running" class="header-img" width="300" height="300"></p>
+<p align="center"><img src="https://i.imgur.com/IH1Af1K.png" alt="Turki Alqou Banner" class="header-img"></p>
+<h1></h1>
+
+👨‍💻 I’m currently working on: Game Development
+
+📚 I’m currently learning: Front-End Web Development
+
+💬 Ask me about: Virtual Reality, Game Development, Unity, and HTML & CSS. 
+
+📫 How to reach me: If it's for business I prefer it through my email TurkiKAlqou@gmail.com, otherwise you can reach me through my socials!
 
 <h2 align="center">Check out my socials</h3>
 <br>
