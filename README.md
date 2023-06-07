@@ -3,7 +3,7 @@
 
 👨‍💻 I’m currently working on: Game Development
 
-📚 I’m currently learning: Front-End Web Development
+📚 I’m currently learning: Front-End Web Development & Game Development
 
 💬 Ask me about: Virtual Reality, Game Development, Unity, and HTML & CSS. 
 
