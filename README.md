@@ -3,9 +3,9 @@
 
 👨‍💻 I’m currently working on: Game Development
 
-📚 I’m currently learning: Front-End Web Development & Game Development
+📚 I’m currently learning: Virtual Reality Development, Gameplay programming, Game AI programming, Game Logics and Mechanism, and Game Design.
 
-💬 Ask me about: Virtual Reality, Game Development, Unity, and HTML & CSS. 
+💬 Ask me about: Virtual Reality, Game Development, and Unity.
 
 📫 How to reach me: If it's for business I prefer it through my email TurkiKAlqou@gmail.com, otherwise you can reach me through my socials!
 
