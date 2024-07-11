@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/IH1Af1K.png" alt="Turki Alqou Banner" class="header-img"></p>
 <h1></h1>
 
-👨‍💻 I’m currently working on: Game Development
+👨‍💻 I’m currently working on: Game Development & XR Development
 
-📚 I’m currently learning: Virtual Reality Development, Gameplay programming, Game AI programming, Game Logics and Mechanism, and Game Design.
+📚 I’m currently learning: Artificial Intelligence, Machine Learning, and Data Science.
 
 💬 Ask me about: Virtual Reality, Game Development, and Unity.
 
